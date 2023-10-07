@@ -6,7 +6,7 @@
     ["lcd_api.py", "github:e-manuele/gin-tronic/lib/lcd_api.py"],
     ["Encoder_irq.py", "github:e-manuele/gin-tronic/test/Encoder_irq.py"],
     ["relay_test.py", "github:e-manuele/gin-tronic/test/relay_test.py"],
-    ["main.py", "github:e-manuele/gin-tronic/main.py"],
+    ["main.py", "github:e-manuele/gin-tronic/main.py"]
   ],
   "version": "1.0"
 }
