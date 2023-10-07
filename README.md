@@ -11,8 +11,9 @@
 4. assicurati che thonny riconosca il pico
 
 5. nella console sotto scrivi:
+`
 - import mip
 - mip.install("github:e-manuele/gin-tronic")
-
+`
 6. dovrebbe installarti automaticamente tutto
 
