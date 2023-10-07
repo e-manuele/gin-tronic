@@ -2,11 +2,11 @@
   "urls": [
     ["rotary.py", "github:e-manuele/gin-tronic/lib/rotary.py"],
     ["rotary_irq_rp2.py", "github:e-manuele/gin-tronic/lib/rotary_irq_rp2.py"],
-    ["rotary_irq_esp.py", "github:e-manuele/gin-tronic/lib/i2c_lcd.py"],
-    ["rotary_irq_pyb.py", "github:e-manuele/gin-tronic/lib/lcd_api.py"],
-    ["rotary_irq_pyb.py", "github:e-manuele/gin-tronic/test/Encoder_irq.py"],
-    ["rotary_irq_pyb.py", "github:e-manuele/gin-tronic/test/relay_test.py"],
-    ["rotary_irq_pyb.py", "github:e-manuele/gin-tronic/main.py"],
+    ["i2c_lcd.py", "github:e-manuele/gin-tronic/lib/i2c_lcd.py"],
+    ["lcd_api.py", "github:e-manuele/gin-tronic/lib/lcd_api.py"],
+    ["Encoder_irq.py", "github:e-manuele/gin-tronic/test/Encoder_irq.py"],
+    ["relay_test.py", "github:e-manuele/gin-tronic/test/relay_test.py"],
+    ["main.py", "github:e-manuele/gin-tronic/main.py"],
   ],
   "version": "1.0"
 }
