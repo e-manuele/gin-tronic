@@ -14,5 +14,5 @@
 - import mip
 - mip.install("github:e-manuele/gin-tronic")
 
-- 6. dovrebbe installarti automaticamente tutto
+6. dovrebbe installarti automaticamente tutto
 
